@@ -1,4 +1,4 @@
-<h1 align="center">I'm Chala</h1>
+<h1 align="center">I'm Dhanuka</h1>
 
 Hey! 👋 I am a software engineering undergraduate with a strong foundation in both front-end and back-end development to build functional applications. My experience spans across the development stack, with a natural inclination toward server-side solutions. I enjoy finding practical approaches to software challenges and implementing clean, effective code to solve real-world problems.
 
