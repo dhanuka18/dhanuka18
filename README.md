@@ -62,12 +62,17 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
+  <!-- Overall GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DhanukaDilshan&show_icons=true&theme=radical&count_private=true" height="180"/>
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanukaDilshan&theme=radical" height="180"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanukaDilshan&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
