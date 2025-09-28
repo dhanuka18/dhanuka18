@@ -71,11 +71,4 @@
 
 ---
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="profile views"/>
-</p>
