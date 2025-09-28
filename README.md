@@ -70,11 +70,4 @@
 
 ---
 
-<!-- Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/DhanukaDilshan/DhanukaDilshan/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhanukaDilshan&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
